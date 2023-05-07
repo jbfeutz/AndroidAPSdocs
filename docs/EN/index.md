@@ -8,7 +8,7 @@ The app does *not* use self-learning artificial intelligence. Instead, the calcu
 
 The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons.
 
-```{admonition} Ask for help - Writing Docs
+:::{admonition} Ask for help - Writing Docs
 :class: note
 
 Please don't be shy, we urgently *need* support in creating the documentation.
@@ -17,7 +17,7 @@ A pull request to edit the documentation is relatively simple to create. You can
 
 A 3 minute video which explains how to edit the docs via PR is available [here](https://www.youtube.com/watch?v=Vo4L6YYxWak).
 
-```
+:::
 
 ## How to read the documentation?
 
@@ -49,7 +49,7 @@ Finally, in the subsection [How to help?](make-a-PR.md) we would like to provide
 
 (index-translation-help-needed)=
 
-```{admonition} Ask for help - Translators Neeeded!!!
+:::{admonition} Ask for help - Translators Neeeded!!!
 :class: note
 
 The documentation is written in English and translated in different languages. We are searching help by the translation of a) the app and b) the documentation.
@@ -58,9 +58,9 @@ The translation process is explained [here](translations.md).
 
 The state of the translations per language for app and documentation can be found [here](./Administration/stateTranslations.md).
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: Home
 
 What is APS and AAPS? <./dummy.md>
@@ -73,9 +73,9 @@ What benefits can I get? <./dummy.md>
 
 How to read this doc?  <./dummy.md>
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: Getting started
 
 Preparing <./prepairing.md>
@@ -84,27 +84,27 @@ Building AAPS <./building.md>
 
 Objectives <./objectives.md>
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: Operating
 
 Optimizing  <./optimizing.md>
 
 Maintenance  <./maintaining.md>
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: Troubleshooting
 
 Where can I get help? <./dummy.md>
 help! my phone died <./dummy.md>
 legacy: Android Studio Issues <./dummy.md>
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: FAQ & References
 
 How can I engage with the AAPS community? <./engaging.md>
@@ -119,15 +119,16 @@ Web Sites <./dummy.md>
 
 Books to read <./dummy.md>
 
-```
+:::
 
-```{toctree}
+:::{toctree}
 :caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
-```
 
-```{note}
+:::
+
+:::{note}
 **Disclaimer And Warning**
 
 - All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AAPS at your own risk, and do not use the information or code to make medical decisions.
@@ -136,4 +137,4 @@ Sandbox <./Sandbox/sandbox1.md>
 
 Please note - this project has no association with and is not endorsed by: [SOOIL](<https://www.sooil.com/eng/>), [Dexcom](<https://www.dexcom.com/>), [Accu-Chek, Roche Diabetes Care](<https://www.accu-chek.com/>) or [Medtronic](<https://www.medtronic.com/>)
 
-```
+:::
