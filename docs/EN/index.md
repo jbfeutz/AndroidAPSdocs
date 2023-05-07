@@ -61,196 +61,63 @@ The state of the translations per language for app and documentation can be foun
 ```
 
 ```{toctree}
-:caption: Change language
+:caption: Home
 
-Change language <./changelanguage.md>
+What is APS and AAPS? <./dummy.md>
+
+AAPS/Loop/OpenAPS <./dummy.md>
+
+Who can benefit? -> single T1D user, T1D user with Caregiver <./dummy.md>
+
+What benefits can I get? <./dummy.md>
+
+How to read this doc?  <./dummy.md>
 
 ```
 
 ```{toctree}
 :caption: Getting started
 
-Safety first <./Getting-Started/Safety-first.md>
+Preparing <./prepairing.md>
 
-What is a closed loop system <./Getting-Started/ClosedLoop.md>
+Building AAPS <./building.md>
 
-What is a closed loop system with AAPS <./Getting-Started/WhatisAndroidAPS.md>
-
-Docs updates & changes <./Getting-Started/WikiUpdate.md>
-
-```
-
-(index-what-do-i-need)=
-
-```{toctree}
-:caption: What do I need
-
-CGM/FGM choices <./Configuration/BG-Source.md>
-
-Pump choices <./Getting-Started/Pump-Choices.md>
-
-Module <./Module/module.md>
+Objectives <./objectives.md>
 
 ```
 
 ```{toctree}
-:caption: How to Install AAPS
+:caption: Operating
 
-Building the APK <./Installing-AndroidAPS/Building-APK.md>
+Optimizing  <./optimizing.md>
 
-Update to a new version or branch <./Installing-AndroidAPS/Update-to-new-version.md>
-
-Hints and Checks after update to AAPS 3.0<./Installing-AndroidAPS/update3_0.md>
-
-Checks after update to AAPS 2.7 <./Installing-AndroidAPS/update2_7.md>
-
-Install git <./Installing-AndroidAPS/git-install.md>
-
-Troubleshooting Android Studio <./Installing-AndroidAPS/troubleshooting_androidstudio.md>
-
-Release notes <./Installing-AndroidAPS/Releasenotes.md>
-
-Dev branch <./Installing-AndroidAPS/Dev_branch.md>
-
-```
-
-(index-component-setup)=
-
-```{toctree}
-:caption: Component Setup
-
-CGM/FGM <./Configuration/BG-Source.md>
-
-xDrip Settings <./Configuration/xdrip.md>
-
-Pump choices <./Getting-Started/Pump-Choices.md>
-
-Phones <./Hardware/Phoneconfig.md>
-
-Nightscout setup <./Installing-AndroidAPS/Nightscout.md>
-
-Smartwatch  <./Hardware/Smartwatch.md>
-
-```
-
-(index-configuration)=
-
-```{toctree}
-:caption: Configuration
-
-Config builder <./Configuration/Config-Builder.md>
-
-Preferences <./Configuration/Preferences.md>
-
-```
-
-```{toctree}
-:caption: AAPS Usage
-
-AAPS screens <./Getting-Started/Screenshots.md>
-
-Objectives <./Usage/Objectives.md>
-
-OpenAPS features <./Usage/Open-APS-features.md>
-
-COB calculation <./Usage/COB-calculation.md>
-
-Sensitivity detection <./Configuration/Sensitivity-detection-and-COB.md>
-
-Profile switch <./Usage/Profiles.md>
-
-Temp-targets <./Usage/temptarget.md>
-
-Extended carbs <./Usage/Extended-Carbs.md>
-
-Automation <./Usage/Automation.md>
-
-Autotune (dev only) <./Usage/autotune.md>
-
-Careportal (discontinued) <./Usage/CPbefore26.md>
-
-Open Humans Uploader <./Configuration/OpenHumans.md>
-
-Automation with 3rd party apps <./Usage/automationwithapp.md>
-
-Android auto <./Usage/Android-auto.md>
-
-```
-
-```{toctree}
-:caption: General Hints
-
-Crossing timezones with pumps <./Usage/Timezone-traveling.md>
-
-Accessing logfiles <./Usage/Accessing-logfiles.md>
-
-Accu-Chek Combo tips for basic usage <./Usage/Accu-Chek-Combo-Tips-for-Basic-usage.md>
-
-Export/Import Settings <./Usage/ExportImportSettings.md>
-
-xDrip engineering mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
-
-```
-
-```{toctree}
-:caption: AAPS for children
-
-Remote monitoring <./Children/Children.md>
-
-SMS commands <./Children/SMS-Commands.md>
-
-Profile helper <./Configuration/profilehelper.md>
+Maintenance  <./maintenance.md>
 
 ```
 
 ```{toctree}
 :caption: Troubleshooting
 
-Troubleshooting <./Usage/troubleshooting.md>
-
-Nightscout client <./Usage/Troubleshooting-NSClient.md>
-
-```
-
-```{toctree}
-:caption: FAQ
-
-FAQ <./Getting-Started/FAQ.md>
-```
-
-```{toctree}
-:caption: Glossary
-
-Glossary <./Getting-Started/Glossary.md>
-```
-
-```{toctree}
-:caption: Where to go for help
-
-Useful resources to read before you start <./Where-To-Go-For-Help/Background-reading.md>
-
-Where to go for help <./Where-To-Go-For-Help/Connect-with-other-users.md>
-
-Docs updates & changes <./Getting-Started/WikiUpdate.md>
+Where can I get help? <./dummy.md>
+help! my phone died <./dummy.md>
+legacy: Android Studio Issues <./dummy.md>
 
 ```
 
 ```{toctree}
-:caption: For Clinicians
+:caption: FAQ & References
 
-For Clinicians <./Resources/clinician-guide-to-AndroidAPS.md>
-```
+Contributing <./contributing.md>
 
-```{toctree}
-:caption: How to help
+resetting the Master password <./dummy.md>
 
-How to help <./Getting-Started/How-can-I-help.md>
+CGMS <./dummy.md>
 
-How to translate the app and docs <./translations.md>
+Insulin pump <./dummy.md>
 
-State of translations <./Administration/stateTranslations.md>
+Web Sites <./dummy.md>
 
-How to edit the docs <./make-a-PR.md>
+Books to read <./dummy.md>
 
 ```
 
