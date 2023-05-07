@@ -91,7 +91,7 @@ Objectives <./objectives.md>
 
 Optimizing  <./optimizing.md>
 
-Maintenance  <./maintenance.md>
+Maintenance  <./maintaining.md>
 
 ```
 
@@ -107,7 +107,7 @@ legacy: Android Studio Issues <./dummy.md>
 ```{toctree}
 :caption: FAQ & References
 
-Contributing <./contributing.md>
+Contributing <./engaging.md>
 
 resetting the Master password <./dummy.md>
 
