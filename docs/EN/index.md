@@ -107,7 +107,7 @@ legacy: Android Studio Issues <./dummy.md>
 ```{toctree}
 :caption: FAQ & References
 
-Contributing <./engaging.md>
+How can I engage with the AAPS community? <./engaging.md>
 
 resetting the Master password <./dummy.md>
 
