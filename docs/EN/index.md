@@ -61,7 +61,7 @@ The state of the translations per language for app and documentation can be foun
 :::
 
 :::{toctree}
-:caption: Home
+:caption: Intro
 
 What is APS and AAPS? <./dummy.md>
 
